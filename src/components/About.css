@@ -78,3 +78,25 @@
     color:#cbd5e1;
 
 }
+@media(max-width:768px){
+
+
+.about{
+
+    flex-direction:column;
+
+    text-align:center;
+
+    padding:60px 5%;
+
+}
+
+
+.about-card{
+
+    width:100%;
+
+}
+
+
+}
