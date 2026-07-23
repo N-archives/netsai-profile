@@ -7,7 +7,7 @@ const projects = [
     description:
       "An AI-powered chatbot application integrating OpenAI API to provide intelligent conversations, context handling, and automated responses.",
     technologies: "React, Java, Spring Boot, OpenAI API, REST API",
-    github: "#",
+    
   },
 
   {
@@ -15,7 +15,7 @@ const projects = [
     description:
       "A chess club management platform for managing members, tournaments, registrations, pairings, and leaderboards.",
     technologies: "Java, Spring Boot, Thymeleaf, PostgreSQL",
-    github: "#",
+    github: "https://github.com/madzimai/chessyhub",
   },
 
   {
@@ -23,23 +23,51 @@ const projects = [
     description:
       "A fitness management backend system handling users, trainers, classes, and booking availability.",
     technologies: "Spring Boot, PostgreSQL, REST API",
-    github: "#",
+    github: "https://github.com/JustJavaOrg",
   },
 
   {
-    title: "GSURF Website",
-    description:
-      "A responsive organization website with content management, SEO features, and user-friendly navigation.",
-    technologies: "Django, HTML, CSS, Bootstrap",
-    github: "#",
-  },
+  title: "GSURF Website",
+
+  description:
+    "Designed and deployed a responsive website for GSURF featuring research publications, project showcases, team profiles, news management, authentication, and an administrator dashboard. Successfully deployed the application to production with a custom domain.",
+
+  technologies: [
+    "Django",
+    "Python",
+    "Bootstrap",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "SQLite",
+    "Render",
+    "Hostinger"
+  ],
+
+  features: [
+    "Responsive Website",
+    "User Authentication",
+    "Admin Dashboard",
+    "News Management",
+    "Research Portal",
+    "Project Showcase",
+    "Team Profiles",
+    "Contact Form",
+    "SEO Sitemap",
+    "Custom Domain Deployment"
+  ],
+
+  github: "https://github.com/madzimai/gsurf-website",
+
+  live: "https://gsurfglobal.org"
+},
 
   {
     title: "Banking System",
     description:
       "A Java application demonstrating object-oriented programming principles including encapsulation, inheritance, and polymorphism.",
     technologies: "Java, OOP, Collections",
-    github: "#",
+    github: "https://github.com/madzimai/banking",
   },
 
   {
@@ -47,7 +75,7 @@ const projects = [
     description:
       "A digital solutions website showcasing web development, branding, and digital marketing services.",
     technologies: "WordPress, Elementor, SEO",
-    github: "#",
+    live: "https://chiacawebsolutions.com",
   },
 ];
 
