@@ -1,3 +1,4 @@
+import React from "react";
 import "./Projects.css";
 import { motion } from "framer-motion";
 
