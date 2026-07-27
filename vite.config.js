@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react],
-  base: "N-archives/netsai-portfolio/",
+  base: "/N-archives/netsai-portfolio/",
 });
