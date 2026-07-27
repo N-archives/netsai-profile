@@ -12,3 +12,56 @@ body {
   font-family: Inter, Arial, sans-serif;
   background: #0f172a;
 }
+.hero-buttons {
+  display: flex;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+
+.primary-btn,
+.secondary-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 12px 28px;
+
+  border-radius: 8px;
+
+  font-size: 16px;
+  font-weight: 600;
+
+  text-decoration: none;
+
+  transition: all 0.3s ease;
+
+  cursor: pointer;
+}
+
+
+/* View Projects */
+.primary-btn {
+  background: #2563eb;
+  color: white;
+}
+
+
+.primary-btn:hover {
+  transform: translateY(-3px);
+}
+
+
+/* Download CV */
+.secondary-btn {
+  border: 2px solid #2563eb;
+  color: #2563eb;
+  background: transparent;
+}
+
+
+.secondary-btn:hover {
+  background: #2563eb;
+  color: white;
+  transform: translateY(-3px);
+}

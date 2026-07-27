@@ -32,17 +32,25 @@ function Hero() {
           and Node.js.
         </p>
 
-        <div className="buttons">
-         <a 
- href="/Netsai-Chiyaka-CV.pdf"
- download
- className="btn"
->
- Download CV
-</a>
+    <div className="hero-buttons">
 
-          <button className="secondary">View Projects</button>
-        </div>
+  <a 
+    href="#projects"
+    className="primary-btn"
+  >
+    View Projects
+  </a>
+
+
+  <a
+    href="/Netsai-Chiyaka-CV.pdf"
+    download
+    className="secondary-btn"
+  >
+    Download CV
+  </a>
+
+</div>
       </motion.div>
 
       <motion.div
