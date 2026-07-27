@@ -93,3 +93,23 @@
     color:#cbd5e1;
 
 }
+@media(max-width:768px){
+
+
+.experience-card{
+
+    flex-direction:column;
+
+    gap:15px;
+
+}
+
+
+.year{
+
+    min-width:auto;
+
+}
+
+
+}

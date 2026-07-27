@@ -9,7 +9,7 @@ function Footer(){
 
             <p>
                 © {new Date().getFullYear()} Netsai Chiyaka.
-                Built with React 🚀
+                Built with React 
             </p>
 
         </footer>
