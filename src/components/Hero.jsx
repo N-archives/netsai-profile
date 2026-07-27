@@ -33,7 +33,13 @@ function Hero() {
         </p>
 
         <div className="buttons">
-          <button className="primary">Download CV</button>
+         <a 
+ href="/Netsai-Chiyaka-CV.pdf"
+ download
+ className="btn"
+>
+ Download CV
+</a>
 
           <button className="secondary">View Projects</button>
         </div>
