@@ -1,3 +1,4 @@
+import React, { useEffect } from "react";
 import "./Skills.css";
 import { motion } from "framer-motion";
 
