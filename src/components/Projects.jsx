@@ -34,15 +34,7 @@ const projects = [
     "Designed and deployed a responsive website for GSURF featuring research publications, project showcases, team profiles, news management, authentication, and an administrator dashboard. Successfully deployed the application to production with a custom domain.",
 
   technologies: [
-    "Django",
-    "Python",
-    "Bootstrap",
-    "HTML5",
-    "CSS3",
-    "JavaScript",
-    "SQLite",
-    "Render",
-    "Hostinger"
+    "Django, Python, Bootstrap, HTML5, CSS3, JavaScript, SQLite, Render, Hostinger"
   ],
 
   features: [
